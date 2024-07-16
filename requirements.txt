@@ -1,0 +1,6 @@
+transformers
+streamlit
+rich
+pandas
+tqdm
+openai
